@@ -8,7 +8,8 @@ BSc, Physics - University of Bucharest (July 2019)
 
 ## Experience
 
-### Scientific Research Assistant - University of Bucharest (Oct 2022 - Oct 2024)
+### Scientific Research Assistant - University of Bucharest   (Oct 2022 - Oct 2024)
+
 DANUBIUS-IP roject
 - Collected and analyzed data from environmental research institutes and established proper data management architecture
 - Developed and tested a data portal demonstrator with open-source solution CKAN, using Python and API interfacing
