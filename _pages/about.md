@@ -45,4 +45,4 @@ Skills: data processing, database engineering, research, dissemination
 
 ---
 ## ⚡ Interesting facts: 
-I love nature :evergreen_tree:, hiking :mount_fuji:, swimming :swimmer:, snowboarding :snowboarder:, biking :bicyclist: and working out :runner: :muscle:
+I love nature 🌲, hiking 🗻, swimming 🏊, snowboarding 🏂, biking 🚴 and working out 🏃 💪
