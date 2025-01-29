@@ -28,7 +28,7 @@ Skills: data processing, database engineering, research, dissemination
 
 
 ## PhD Projects
-- Earthquakes exploratory data analysis
+- [Earthquakes exploratory data analysis](https://github.com/gabipana7/earthquake-exploratory-data-analysis)
 - Earthquake networks
 - Danubius website and theme
 - Waiting times for sea level rise
