@@ -4,13 +4,13 @@ author_profile: true
 ---
 
 # This portfolio website is under construction! 
-## Project links will eventually land here, and projects properly showcased! (for now they go to github)
+## Projects will be each thoroughly showcased on this website! (for now they go to github)
 
 ## Hi!
 
 ### My name is Gabriel and I am a PhD graduate in Physics.
 
-I am passionate about working with data, from database processing, to data analysis and visualization. In my PhD work I tackled projects focused every stage of the data lifecycle.
+I am passionate about working with data, from database processing, to data analysis and visualization. In my PhD work I tackled projects focused on every stage of the data lifecycle.
 
 ### PhD Projects
 - [Earthquakes exploratory data analysis](https://github.com/gabipana7/earthquake-exploratory-data-analysis)

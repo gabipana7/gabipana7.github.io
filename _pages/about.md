@@ -7,18 +7,18 @@ title: "About"
 
 ### My name is Gabriel and I am a PhD graduate in Physics.
 
-I am passionate about working with data, from database processing, to data analysis and visualization. In my PhD work I tackled projects focused every stage of the data lifecycle.
+I am passionate about working with data, from database processing, to data analysis and visualization. In my PhD work I tackled projects focused on every stage of the data lifecycle.
 
-On my website you will find a few words about me and my background, a list of my data science projects, and a blog where I post interesting findings while working with data (projects descriptions, new data science libraries I've been using, new research and recent developments in data science or physics).
+On my website you will find a few words about me and my background, a list of my data science projects, and a blog where I post interesting findings while working with data (projects descriptions, new data science libraries and tools I've been using, new research and recent developments in data science or physics).
 
 Have fun, and thanks for visiting! 
 
 
 ## Education
 
-PhD, Physics - University of Bucharest (October 2024)
-MSc, Physics - University of Bucharest (July 2021)
-BSc, Physics - University of Bucharest (July 2019)
+- PhD, Physics - University of Bucharest (October 2024)
+- MSc, Physics - University of Bucharest (July 2021)
+- BSc, Physics - University of Bucharest (July 2019)
 
 ## Experience
 
@@ -41,3 +41,8 @@ Quantec Project
 Tools: Python, SQL
 
 Skills: data processing, database engineering, research, dissemination
+
+
+---
+## ⚡ Interesting facts: 
+I love nature :evergreen_tree:, hiking :mount_fuji:, swimming :swimmer:, snowboarding :snowboarder:, biking :bicyclist: and working out :runner: :muscle:
