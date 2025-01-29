@@ -294,6 +294,14 @@ compress_html:
 
 # Defaults
 defaults:
+  # _portfolio
+  - scope:
+    path: ""
+    type: portfolio
+  values:
+    layout: single
+    author_profile: false
+    share: true
   # _posts
   - scope:
       path: ""
@@ -305,3 +313,11 @@ defaults:
       comments: # true
       share: true
       related: true
+
+
+# Portfolio
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  
