@@ -17,7 +17,9 @@ Have fun, and thanks for visiting!
 ## Education
 
 - PhD, Physics - University of Bucharest (October 2024)
+
 - MSc, Physics - University of Bucharest (July 2021)
+
 - BSc, Physics - University of Bucharest (July 2019)
 
 ## Experience
