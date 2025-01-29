@@ -44,5 +44,5 @@ Skills: data processing, database engineering, research, dissemination
 
 
 ---
-## ⚡ Interesting facts: 
+## ⚡ Interesting facts about me: 
 I love nature 🌲, hiking 🗻, swimming 🏊, snowboarding 🏂, biking 🚴 and working out 🏃 💪
