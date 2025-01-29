@@ -1,10 +1,13 @@
 # main links
 main:
   - title: "Projects"
-  # url: 
+    url: /projects/
   - title: "Blog"
+    url: /blog/
   - title: "About"
+    url: /about/
   - title: "Contact"
+    url: /contact/
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
