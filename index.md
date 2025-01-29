@@ -3,6 +3,9 @@ layout: single
 author_profile: true
 ---
 
+# This portfolio website is under construction! 
+## Project links will eventually land here, and projects properly showcased! (for now they go to github)
+
 ## Hi!
 
 ### My name is Gabriel and I am a PhD graduate in Physics.
