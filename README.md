@@ -29,11 +29,12 @@ Skills: data processing, database engineering, research, dissemination
 
 ## PhD Projects
 - [Earthquakes exploratory data analysis](https://github.com/gabipana7/earthquake-exploratory-data-analysis)
-- Earthquake networks
-- Danubius website and theme
-- Waiting times for sea level rise
-- Chaos doubling and educational physics
+- [Earthquake networks](https://github.com/gabipana7/earthquake-networks)
+- [Danubius data portal](https://ckan.teorie.ro/)
+- [Danubius custom theme](https://github.com/gabipana7/ckanext-danubius_theme)
+- [Waiting times for sea level rise](https://github.com/gabipana7/waiting-times-sea-level)
+- [Chaos doubling and educational physics](https://github.com/gabipana7/chaos-doubling)
 
 ## Projects
-- Wolt data scientist assignment
-- Football matches reporting
+- [Wolt data scientist assignment (private)](https://github.com/gabipana7/wolt-applied-science-assignment)
+- [Football matches reporting](https://github.com/gabipana7/fifa-world-cup-2022)
