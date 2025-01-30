@@ -13,8 +13,6 @@ sidebar:
     text: "Julia (DataFrames.jl, Makie.jl, GMT.jl), Generic Mapping Tools (GMT), Python, SQL"
   - title: "Skills"
     text: "Data processing, data acquisition, data cleaning, data visualization"
-  - title: "Find the project on GitHub"
-    url: https://github.com/gabipana7/earthquake-exploratory-data-analysis
 # gallery:
 #   - url: /assets/images/unsplash-gallery-image-1.jpg
 #     image_path: assets/images/unsplash-gallery-image-1-th.jpg
@@ -27,6 +25,7 @@ sidebar:
 #     alt: "placeholder image 3"
 ---
 
+[GitHub Repository](https://github.com/gabipana7/earthquake-exploratory-data-analysis)
 
 ## This project aims to describe the data collection and data cleaning process for seismic databases
 
