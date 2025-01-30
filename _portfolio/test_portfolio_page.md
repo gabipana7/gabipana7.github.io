@@ -1,6 +1,6 @@
 ---
-title: "Foo Bar Identity"
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+title: "Test Portfolio Page"
+excerpt: "Just a page in _portfolio to see if it is displayed in the Portfolio tab"
 header:
   image: /assets/images/iceland_banner.jpeg
   teaser: /assets/images/iceland_banner.jpeg
@@ -25,6 +25,6 @@ gallery:
 
 TEST TEST TEST
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+{% include gallery caption="This is a sample gallery." %}
 
 TEST

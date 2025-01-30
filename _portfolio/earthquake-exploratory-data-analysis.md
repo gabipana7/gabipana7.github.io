@@ -26,8 +26,6 @@ sidebar:
 ---
 
 
-## earthquake-exploratory-data-analysis
-
 ## This project aims to describe the data collection and data cleaning process for seismic databases
 
 ## Data Collection
