@@ -7,3 +7,4 @@ entries_layout: grid
 classes: wide
 ---
 
+## Portfolio page under construction. Each project will be thoroughly showcased here.

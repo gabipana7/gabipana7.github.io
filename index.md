@@ -2,9 +2,7 @@
 layout: single
 author_profile: true
 ---
-
-# This portfolio website is under construction! 
-## Projects will be each thoroughly showcased on this website! (for now, the links below go to github)
+# 
 
 ## Hi!
 
