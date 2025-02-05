@@ -2,8 +2,6 @@
 layout: single
 author_profile: true
 ---
-# 
-
 ## Hi!
 
 ### My name is Gabriel and I am a PhD graduate in Physics.
