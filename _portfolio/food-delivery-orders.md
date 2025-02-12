@@ -59,7 +59,7 @@ Data exploration involves visualizing and summarizing the dataset to understand 
     - no ratings in the data, but can compute a satisfaction rating based on the time "saved" on each delivery
     - found 14534 deliveries in an acceptable time range (5 minutes late - 10 minutes early)
     - CSAT score of 77.7% (in-line with industry benchmarks)
-![eda_part1](../assets/images/2_eda.png)
+![eda_part1](/assets/images/2_eda.png)
 
 
 <!-- ![Image](https://github.com/user-attachments/assets/388677de-e874-443d-b267-a22f6c3cb795)
@@ -84,7 +84,7 @@ Data exploration involves visualizing and summarizing the dataset to understand 
     - no time lost during rush hours
     - the ESTIMATED_DELIVERY_MINUTES seems to properly increase when there are inconveniences (weekday, rush hour traffic, bad weather)
     - the users do not get low initial time estimates, impacting the ON_TIME_DELIVERY performance
-![eda_part2](../assets/images/3_eda_part2.png)
+![eda_part2](/assets/images/3_eda_part2.png)
 
 
 ## Modeling
@@ -102,7 +102,7 @@ A clustering based on K-means is implemented to separate the users into distinct
 - the venues were then added based on these zones
 - the orders were classified then into two major categories: same-zone orders, and cross-boundary orders
 - thus hinting efficient courier distribution
-![clustering](../assets/images/4_clustering.png)
+![clustering](/assets/images/4_clustering.png)
 
 ### Classification
 Classification based on Random Forest
@@ -112,7 +112,7 @@ Classification based on Random Forest
 - tuning hyperparameters for optimal performance.
 Two predictions were selected:
 
-![classification](../assets/images/5_classification.png)
+![classification](/assets/images/5_classification.png)
 <!-- ![Image](https://github.com/user-attachments/assets/3ecb5fee-b2d0-4bb4-b289-0873d7e4dab4)
 ![Image](https://github.com/user-attachments/assets/f6a14e44-bfa3-4b36-b69e-cbb56d8b6fc0) -->
 #### Same-zone orders
@@ -138,7 +138,7 @@ Evaluation involves assessing the performance of the trained models using metric
 - comparing model performance
     - KNN was used to better predict the venue clusters
 
-![evaluation](../assets/images/6_evaluation.png)
+![evaluation](/assets/images/6_evaluation.png)
 
 ---
 ## Conclusions
@@ -156,4 +156,4 @@ Further developments:
     - use SARIMA (because data has seasonality)
     - forecast number of orders on a particular day (focus on weekday vs weekend)
 - try other clustering methods (e.g. DBSCAN)
-![further_developments](../assets/images/7_further_developments.png)
+![further_developments](/assets/images/7_further_developments.png)
