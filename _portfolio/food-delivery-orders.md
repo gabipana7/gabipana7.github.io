@@ -27,7 +27,7 @@ sidebar:
 8. [Requirements](#requirements)
 
 ## Introduction
-This project was represents an assignment for the Wolt Applied Science Internship 2025.
+This project represents an assignment for the Wolt Applied Science Internship 2025.
 
 The goal is to analyze and model the food delivery orders dataset, to gain insightful knowledge about the data and to make a few predictions. The process involves data cleaning, exploration, modeling, and evaluation.
 
