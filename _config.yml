@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Gabriel Pana"
-  avatar           : /assets/images/profile-pic.jpeg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/profile-pic.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD in Physics | Data Scientist"
   location         : "Finland"
   email            :

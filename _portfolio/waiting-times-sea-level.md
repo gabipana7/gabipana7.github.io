@@ -1,9 +1,9 @@
 ---
-title: "Earthquake exploratory data analysis"
-excerpt: "Exploratory data analysis for seismic regions around the globe"
-header:
-  image: /assets/images/earthquakes-exploratory-data-analysis_Japan_EDA_header_resized.png
-  teaser: assets/images/earthquakes-exploratory-data-analysis_Japan_EDA_header_resized.png
+title: "Waiting times for sea level variations"
+excerpt: "Waiting times for sea level variations in the port of Trieste"
+# header:
+#   image: /assets/images/earthquakes-exploratory-data-analysis_Japan_EDA_header_resized.png
+#   teaser: assets/images/earthquakes-exploratory-data-analysis_Japan_EDA_header_resized.png
 sidebar:
   # - title: "Gabriel"
   #   image: /assets/images/profile-pic.jpeg
