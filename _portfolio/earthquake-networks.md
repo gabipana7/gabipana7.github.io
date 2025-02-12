@@ -10,7 +10,7 @@ sidebar:
   #   image_alt: "logo"
   #   text: "Data Scientist"
   - title: "Tech stack"
-    text: "Julia (DataFrames.jl, CairoMakie.jl, GMT.jl, Graphs.jl, LinearAlgebra.jl, StatsBase.jl), Generic Mapping Tools (GMT), Python, SQL"
+    text: "Julia (DataFrames.jl, CairoMakie.jl, GMT.jl, Graphs.jl, LinearAlgebra.jl, StatsBase.jl), Generic Mapping Tools, Python (powlaw), SQL"
   - title: "Skills"
     text: "Data processing, data acquisition, data cleaning, data visualization, mathematical modeling, feature engineering, network theory, Maximum Likelihood Estimation"
 # gallery:
