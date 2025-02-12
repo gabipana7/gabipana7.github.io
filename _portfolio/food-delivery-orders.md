@@ -5,10 +5,10 @@ header:
   image: /assets/images/clustering_user_venue_locations_same_zone_header_resized.png
   teaser: /assets/images/clustering_user_venue_locations_same_zone_header_resized.png
 sidebar:
-  - title: "Gabriel"
-    image: /assets/images/profile-pic.jpeg
-    image_alt: "logo"
-    text: "Data Scientist"
+  # - title: "Gabriel"
+  #   image: /assets/images/profile-pic.jpeg
+  #   image_alt: "logo"
+  #   text: "Data Scientist"
   - title: "Tech stack"
     text: "Python ()"
   - title: "Skills"
@@ -33,7 +33,7 @@ The goal is to analyze and model the food delivery orders dataset, to gain insig
 
 
 ## Dataset
-The dataset used in this project is the !["orders_autumn_2020"](https://github.com/woltapp/applied-science-internship-2025) which contains information about customer orders. The dataset includes features such as time of order, delivery times, amount of items, user location, venue location, weather information.
+The dataset used in this project is the ["orders_autumn_2020"](https://github.com/woltapp/applied-science-internship-2025) which contains information about customer orders. The dataset includes features such as time of order, delivery times, amount of items, user location, venue location, weather information.
 
 
 ## Data Cleaning
@@ -53,7 +53,7 @@ Data exploration involves visualizing and summarizing the dataset to understand 
 - Correlation relationship between all features (no unexpected strong correlations found)
 - Exploration on Wolt KPI's : customer satisfaction, average order value (or quantity here), delivery times (impact by weather, day of the week, rush hour)
 
-![CSAT](https://private-user-images.githubusercontent.com/72228598/412400061-10825026-f615-4d64-a180-972e169a9b46.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzkzNjI4OTgsIm5iZiI6MTczOTM2MjU5OCwicGF0aCI6Ii83MjIyODU5OC80MTI0MDAwNjEtMTA4MjUwMjYtZjYxNS00ZDY0LWExODAtOTcyZTE2OWE5YjQ2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjEyVDEyMTYzOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBhNDRjM2NkMzU0MDM2MDc2NDM1ZTcxODNkN2NjZTgwNDU5ZDNmZTFiY2UyZTdmNjliY2JhZTI2NzEwNjM3NGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.6XRfVB4Kw95VR5eZcTUnnBTy7ma5W0fe1ZfHa0AOchI)
+![Image](https://github.com/user-attachments/assets/10825026-f615-4d64-a180-972e169a9b46)
 - Customer satisfaction:
     - no ratings in the data, but can compute a satisfaction rating based on the time "saved" on each delivery
     - found 14534 deliveries in an acceptable time range (5 minutes late - 10 minutes early)

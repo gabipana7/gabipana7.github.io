@@ -5,10 +5,10 @@ header:
   image: /assets/images/Japan_cell_size_10.0km_minmag_5_header_resized.png
   teaser: assets/images/Japan_cell_size_10.0km_minmag_5_header_resized.png
 sidebar:
-  - title: "Gabriel"
-    image: /assets/images/profile-pic.jpeg
-    image_alt: "logo"
-    text: "Data Scientist"
+  # - title: "Gabriel"
+  #   image: /assets/images/profile-pic.jpeg
+  #   image_alt: "logo"
+  #   text: "Data Scientist"
   - title: "Tech stack"
     text: "Julia (DataFrames.jl, CairoMakie.jl, GMT.jl, Graphs.jl, LinearAlgebra.jl, StatsBase.jl), Generic Mapping Tools (GMT), Python, SQL"
   - title: "Skills"
