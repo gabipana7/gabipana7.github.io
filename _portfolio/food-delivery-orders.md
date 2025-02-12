@@ -46,19 +46,20 @@ Data cleaning involves handling missing values, and correcting data types. The s
 
 ## Data Exploration
 
+![business](/assets/images/1_business.png)
+
 Data exploration involves visualizing and summarizing the dataset to understand its structure and relationships. Key steps include:
 - Descriptive statistics (mean, median, mode, etc.)
 
 <!-- ![Image](https://github.com/user-attachments/assets/509cce44-972a-4886-b831-e03bf081a0bf) -->
 - Correlation relationship between all features (no unexpected strong correlations found)
 - Exploration on Food Delivery KPI's : customer satisfaction, average order value (or quantity here), delivery times (impact by weather, day of the week, rush hour)
-![business](/assets/images/1_business.png)
-
 <!-- ![Image](https://github.com/user-attachments/assets/10825026-f615-4d64-a180-972e169a9b46) -->
 - Customer satisfaction:
     - no ratings in the data, but can compute a satisfaction rating based on the time "saved" on each delivery
     - found 14534 deliveries in an acceptable time range (5 minutes late - 10 minutes early)
     - CSAT score of 77.7% (in-line with industry benchmarks)
+
 ![eda_part1](/assets/images/2_eda.png)
 
 
@@ -84,6 +85,7 @@ Data exploration involves visualizing and summarizing the dataset to understand 
     - no time lost during rush hours
     - the ESTIMATED_DELIVERY_MINUTES seems to properly increase when there are inconveniences (weekday, rush hour traffic, bad weather)
     - the users do not get low initial time estimates, impacting the ON_TIME_DELIVERY performance
+
 ![eda_part2](/assets/images/3_eda_part2.png)
 
 
@@ -102,6 +104,7 @@ A clustering based on K-means is implemented to separate the users into distinct
 - the venues were then added based on these zones
 - the orders were classified then into two major categories: same-zone orders, and cross-boundary orders
 - thus hinting efficient courier distribution
+
 ![clustering](/assets/images/4_clustering.png)
 
 ### Classification
@@ -156,4 +159,5 @@ Further developments:
     - use SARIMA (because data has seasonality)
     - forecast number of orders on a particular day (focus on weekday vs weekend)
 - try other clustering methods (e.g. DBSCAN)
+
 ![further_developments](/assets/images/7_further_developments.png)
