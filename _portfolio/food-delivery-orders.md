@@ -2,8 +2,8 @@
 title: "Food delivery orders - data science case study"
 excerpt: "A data science project including exploratory data analysis, feature engineering, modeling and testing for a food deliveries dataset"
 header:
-  image: /assets/images/clustering_user_venue_locations_same_zone.png
-  teaser: /assets/images/clustering_user_venue_locations_same_zone.png
+  image: /assets/images/clustering_user_venue_locations_same_zone_header_resized.png
+  teaser: /assets/images/clustering_user_venue_locations_same_zone_header_resized.png
 sidebar:
   - title: "Gabriel"
     image: /assets/images/profile-pic.jpeg

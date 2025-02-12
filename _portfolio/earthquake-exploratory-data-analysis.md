@@ -2,8 +2,8 @@
 title: "Earthquake exploratory data analysis"
 excerpt: "Exploratory data analysis for seismic regions around the globe"
 header:
-  image: /assets/images/earthquakes-exploratory-data-analysis_Japan_EDA.png
-  teaser: assets/images/earthquakes-exploratory-data-analysis_Japan_EDA.png
+  image: /assets/images/earthquakes-exploratory-data-analysis_Japan_EDA_header_resized.png
+  teaser: assets/images/earthquakes-exploratory-data-analysis_Japan_EDA_header_resized.png
 sidebar:
   - title: "Gabriel"
     image: /assets/images/profile-pic.jpeg
