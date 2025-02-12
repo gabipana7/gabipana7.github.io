@@ -52,7 +52,7 @@ Data exploration involves visualizing and summarizing the dataset to understand 
 <!-- ![Image](https://github.com/user-attachments/assets/509cce44-972a-4886-b831-e03bf081a0bf) -->
 - Correlation relationship between all features (no unexpected strong correlations found)
 - Exploration on Food Delivery KPI's : customer satisfaction, average order value (or quantity here), delivery times (impact by weather, day of the week, rush hour)
-![business](../assets/images/1_business.png)
+![business](/assets/images/1_business.png)
 
 <!-- ![Image](https://github.com/user-attachments/assets/10825026-f615-4d64-a180-972e169a9b46) -->
 - Customer satisfaction:
