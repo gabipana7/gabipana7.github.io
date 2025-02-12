@@ -1,9 +1,9 @@
 ---
 title: "Waiting times for sea level variations"
 excerpt: "Waiting times for sea level variations in the port of Trieste"
-# header:
-#   image: /assets/images/earthquakes-exploratory-data-analysis_Japan_EDA_header_resized.png
-#   teaser: assets/images/earthquakes-exploratory-data-analysis_Japan_EDA_header_resized.png
+header:
+  image: /assets/images/port_of_trieste_header_resized.png
+  teaser: assets/images/port_of_trieste_header_resized.png
 sidebar:
   # - title: "Gabriel"
   #   image: /assets/images/profile-pic.jpeg
