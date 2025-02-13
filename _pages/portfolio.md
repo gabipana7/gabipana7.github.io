@@ -7,3 +7,4 @@ entries_layout: grid
 classes: wide
 ---
 
+## A showcase of my most interesting projects
