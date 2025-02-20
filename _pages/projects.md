@@ -11,6 +11,7 @@ title: "Projects"
 - [Danubius data portal](https://ckan.teorie.ro/)
 - [Danubius custom theme](https://github.com/gabipana7/ckanext-danubius_theme)
 - [Waiting times for sea level variations](https://github.com/gabipana7/waiting-times-sea-level)
+- [Waiting times for extraplanetary quakes](https://github.com/gabipana7/waiting-times-moonquakes)
 - [Chaos doubling and educational physics](https://github.com/gabipana7/chaos-doubling)
 
 ### Projects
