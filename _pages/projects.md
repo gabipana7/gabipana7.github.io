@@ -14,5 +14,5 @@ title: "Projects"
 - [Chaos doubling and educational physics](https://github.com/gabipana7/chaos-doubling)
 
 ### Projects
-- [Wolt data scientist assignment (private)](https://github.com/gabipana7/wolt-applied-science-assignment)
+- [Food orders data science case study](https://github.com/gabipana7/food-orders-case-study)
 - [Football matches reporting](https://github.com/gabipana7/fifa-world-cup-2022)
